@@ -1,0 +1,1444 @@
+[
+  {
+    "timestamp": "2025-04-24T13:14:20.484160",
+    "username": "john_doe",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-24T13:14:40.839337",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-24T16:17:54.539496",
+    "username": "john_doe",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-24T16:18:06.571646",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-24T16:21:08.694902",
+    "username": "john_doe",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-24T16:21:28.362766",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-24T16:21:55.076327",
+    "username": "john_doe",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "SQL injection in password"
+  },
+  {
+    "timestamp": "2025-04-24T21:01:28.533360",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-25T12:47:48.213410",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-25T12:49:01.747594",
+    "username": "alice",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-25T12:49:41.345873",
+    "username": "alice DROP TABLE",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-04-25T12:50:27.237528",
+    "username": "alice",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T13:26:31.226955",
+    "username": "john_doe",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T13:26:43.302483",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T13:36:18.513278",
+    "username": "john_doe",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T13:36:28.495439",
+    "username": "mohamed223331",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Registration successful"
+  },
+  {
+    "timestamp": "2025-04-26T13:36:33.306174",
+    "username": "mohamed223331",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T13:37:03.644769",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T13:37:15.089122",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T13:38:28.278579",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T13:39:05.994026",
+    "username": "john_doe",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T13:39:07.779721",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T13:39:08.578887",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T13:39:08.962212",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T13:39:09.328657",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T13:39:09.754786",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T13:39:10.195539",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T13:39:10.628583",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T13:39:13.476749",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T13:39:14.680404",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T13:39:16.248766",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T13:39:17.314742",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T15:45:11.667329",
+    "username": "john_doe",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T15:51:52.954008",
+    "username": "mohamed_wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Registration successful"
+  },
+  {
+    "timestamp": "2025-04-26T15:52:01.191586",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T15:52:15.517507",
+    "username": "mohamed_wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T15:52:24.357120",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T15:52:25.088500",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T15:52:31.737382",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T15:52:35.765041",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T15:52:45.515856",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T15:54:05.226099",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T15:59:51.000220",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T16:00:06.095244",
+    "username": "mohamed_wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T16:00:17.152659",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T16:01:48.769796",
+    "username": "mohamed_wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T16:01:58.240671",
+    "username": "mohamed_wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T16:02:06.467334",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T16:02:45.717205",
+    "username": "mohamed_wafiq",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T16:02:54.467808",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T16:03:33.910010",
+    "username": "mohamed_wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Registration successful"
+  },
+  {
+    "timestamp": "2025-04-26T16:03:42.031907",
+    "username": "mohamed_wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T16:04:57.127625",
+    "username": "mohamed_wafiq",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "SQL injection in password"
+  },
+  {
+    "timestamp": "2025-04-26T16:05:10.592857",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T16:05:22.892164",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T16:10:40.072649",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T16:10:54.697218",
+    "username": "mohamed_wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T16:11:02.225283",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T16:12:21.869664",
+    "username": "mohamed_wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T16:12:40.450748",
+    "username": "john_doe",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T16:12:48.952115",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T16:14:04.546423",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T16:14:47.350387",
+    "username": "mohamed_wafiq",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "SQL injection in password"
+  },
+  {
+    "timestamp": "2025-04-26T16:15:07.160052",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-26T16:15:17.092829",
+    "username": "mohamed_wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T16:15:23.092977",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-04-26T16:16:20.806613",
+    "username": "mohamed_wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T16:16:38.971495",
+    "username": "mohamed_wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-04-26T16:17:57.467143",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-04-27T13:40:56.726300",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-02T21:49:13.331907",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-02T21:50:25.524257",
+    "username": "Ahmed123",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Registration successful"
+  },
+  {
+    "timestamp": "2025-05-02T21:50:37.293820",
+    "username": "Ahmed123",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-02T21:50:46.702476",
+    "username": "mohamed wafiq`",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-05-02T21:51:00.916572",
+    "username": "unknown",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-02T21:51:43.536907",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-03T20:21:58.661535",
+    "username": "admin' OR CONCAT('1','=','1')='1",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-03T20:22:22.035966",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-03T20:23:30.653066",
+    "username": "admin' OR (SELECT CHAR(49)=CHAR(49)) --",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-03T20:24:01.419958",
+    "username": "admin' AND IF(1=1, SLEEP(5), 0) --",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-03T20:26:01.024815",
+    "username": "admin' AND BENCHMARK(1000000,MD5('test')) --",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-03T20:26:15.543345",
+    "username": "admin' OR CASE WHEN (1=1) THEN '1' ELSE '0' END='1' --",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Missing username or password"
+  },
+  {
+    "timestamp": "2025-05-03T20:26:17.415549",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-03T20:26:46.513504",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-03T20:27:09.016141",
+    "username": "admin' OR CASE WHEN (1=1) THEN '1' ELSE '0' END='1' --",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-04T10:56:55.696922",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-04T11:50:24.104184",
+    "username": "john_doe",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-04T12:12:35.743398",
+    "username": "john_doe",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-04T12:13:30.622985",
+    "username": "john_doe or 1=1",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-04T12:14:17.000667",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-04T12:17:49.951968",
+    "username": "BUE",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Registration successful"
+  },
+  {
+    "timestamp": "2025-05-04T12:24:20.683342",
+    "username": "BUE1",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Registration successful"
+  },
+  {
+    "timestamp": "2025-05-04T12:24:35.241787",
+    "username": "BUE",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-04T12:25:19.247310",
+    "username": "BUE admin' AND BENCHMARK(1000000,MD5('test')) --",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-04T12:25:32.253568",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-08T18:15:29.204388",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-05-08T18:15:42.144431",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-09T18:16:05.139759",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-09T19:35:05.705359",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-09T19:35:20.188785",
+    "username": "mohamed223331 OR 1=1",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-09T19:47:37.413088",
+    "username": "john_doe",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-09T19:47:57.846713",
+    "username": "mohamed223331 OR 1=1",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-09T19:48:36.781670",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL accessed: http://fake-login-page.com/login.php"
+  },
+  {
+    "timestamp": "2025-05-09T19:49:17.557955",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL accessed: http://fake-login-page.com/login.php"
+  },
+  {
+    "timestamp": "2025-05-09T20:32:25.276300",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL clicked: http://scam-offer.com/iphone"
+  },
+  {
+    "timestamp": "2025-05-09T20:33:17.658669",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL clicked: http://fake-login-page.com/login.php"
+  },
+  {
+    "timestamp": "2025-05-09T20:39:00.382022",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-09T20:39:38.666941",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL clicked: http://scam-offer.com/iphone"
+  },
+  {
+    "timestamp": "2025-05-09T20:40:21.491100",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-09T20:49:38.701300",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-09T20:53:10.734990",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL clicked: http://scam-offer.com/iphone"
+  },
+  {
+    "timestamp": "2025-05-09T20:55:05.772141",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-09T20:56:42.361609",
+    "username": "mohamed DROP TABLE dkas",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-09T20:58:56.657654",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-09T20:58:57.077514",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T12:57:48.183711",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL clicked: http://scam-offer.com/iphone"
+  },
+  {
+    "timestamp": "2025-05-10T13:07:49.164070",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T13:15:50.746563",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL accessed: http://fake-login-page.com/login.php"
+  },
+  {
+    "timestamp": "2025-05-10T13:15:51.612067",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL accessed: https://www.coursera.org"
+  },
+  {
+    "timestamp": "2025-05-10T13:32:20.719777",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "message": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T13:34:08.534882",
+    "username": "mohamed wafiq DROP TABLE",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "message": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-10T13:34:17.571540",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "message": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-10T13:34:20.248032",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "message": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-10T13:38:49.587410",
+    "username": "mohamed wafiq DROP TABLE",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "message": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-10T13:40:07.849998",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL clicked: http://scam-offer.com/iphone"
+  },
+  {
+    "timestamp": "2025-05-10T13:40:48.171061",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL clicked: http://fake-login-page.com/login.php"
+  },
+  {
+    "timestamp": "2025-05-10T15:26:18.999937",
+    "username": "unknown",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Phishing URL clicked: http://scam-offer.com/iphone"
+  },
+  {
+    "timestamp": "2025-05-10T15:26:58.781738",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T15:28:00.915714",
+    "username": "john_doe",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T15:30:04.013933",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL clicked: http://fake-login-page.com/login.php"
+  },
+  {
+    "timestamp": "2025-05-10T15:36:29.952026",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "message": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T15:39:49.389727",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL clicked: http://scam-offer.com/iphone"
+  },
+  {
+    "timestamp": "2025-05-10T15:41:22.098194",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL clicked: http://scam-offer.com/iphone"
+  },
+  {
+    "timestamp": "2025-05-10T15:41:35.691513",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL clicked: http://fake-login-page.com/login.php"
+  },
+  {
+    "timestamp": "2025-05-10T16:00:06.478614",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T16:03:23.535604",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T16:03:56.743313",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-10T16:04:00.067098",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-10T16:04:03.970264",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-10T16:04:12.311054",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-10T16:04:35.873074",
+    "username": "john_doe",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-05-10T16:04:43.786029",
+    "username": "john_doe",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T16:05:33.837403",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T16:15:28.683499",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T16:16:24.776944",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T16:16:52.550158",
+    "username": "kajd SELECT LALL USERS",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-05-10T16:17:02.073176",
+    "username": "DROP ALL",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-05-10T16:17:02.391028",
+    "username": "unknown",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-10T16:17:04.870344",
+    "username": "unknown",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-10T16:20:08.081360",
+    "username": "mohame d OR 1=1",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-10T16:23:23.826598",
+    "username": "f",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-05-10T16:23:24.994745",
+    "username": "f",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-05-10T16:23:25.815594",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-10T16:23:27.943398",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-10T16:33:03.489474",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T19:58:34.692549",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-10T19:59:57.249228",
+    "username": "mohamed wafiq (SELECT SUBSTR(version(),1,1))='5' --`",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-10T20:00:31.551869",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-19T12:55:53.820367",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-19T16:09:16.920778",
+    "username": "salman",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Registration successful"
+  },
+  {
+    "timestamp": "2025-05-19T16:09:29.453455",
+    "username": "salman",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-19T20:44:57.774206",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-19T20:47:33.262523",
+    "username": "alice",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "SQL injection in password"
+  },
+  {
+    "timestamp": "2025-05-19T20:57:30.116058",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-19T20:59:56.081999",
+    "username": "fd CONACT(''DR','OP')",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-19T21:05:19.044596",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-19T21:05:52.807012",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-19T21:06:05.840611",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-19T21:06:07.935276",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-19T21:06:08.671767",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-19T21:06:23.328453",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-19T21:07:20.755392",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-19T21:07:35.634453",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-19T21:07:38.943626",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-19T21:08:12.415902",
+    "username": "mohamed wafiq OR 1=1",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-19T21:08:52.857797",
+    "username": "unknown",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-19T21:08:55.610607",
+    "username": "unknown",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-19T21:09:36.608745",
+    "username": "mohamed wafiq DROP TABLE",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "SQL injection in username"
+  },
+  {
+    "timestamp": "2025-05-19T21:11:10.697007",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-21T12:03:31.117593",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-28T13:28:05.991159",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-28T18:31:24.934333",
+    "username": "d",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-05-28T18:31:25.001797",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T18:31:25.186107",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T18:31:27.351539",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T20:42:17.284278",
+    "username": "d",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-05-28T20:42:23.182658",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T20:42:28.139228",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T20:51:15.104087",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Phishing URL accessed: http://fake-login-page.com/login.php"
+  },
+  {
+    "timestamp": "2025-05-28T20:51:32.905823",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Invalid credentials"
+  },
+  {
+    "timestamp": "2025-05-28T20:51:38.376788",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T20:51:40.912797",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T21:00:38.783139",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-28T21:03:26.325388",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-28T21:04:14.452634",
+    "username": "unknown",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T21:04:16.839893",
+    "username": "unknown",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T21:04:38.092099",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-28T21:05:20.878239",
+    "username": "unknown",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T21:46:33.370560",
+    "username": "mohamed wafiq",
+    "ip_address": "192.168.56.1",
+    "success": false,
+    "reason": "SQL injection in password"
+  },
+  {
+    "timestamp": "2025-05-28T22:23:43.467275",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T22:23:55.240754",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T22:23:58.935393",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T22:28:20.780153",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T22:28:39.556413",
+    "username": "unknown",
+    "ip_address": "127.0.0.1",
+    "success": false,
+    "reason": "Rate limit exceeded"
+  },
+  {
+    "timestamp": "2025-05-28T22:30:20.538370",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  },
+  {
+    "timestamp": "2025-05-29T12:17:31.634096",
+    "username": "mohamed wafiq",
+    "ip_address": "127.0.0.1",
+    "success": true,
+    "reason": "Success"
+  }
+]

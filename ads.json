@@ -1,0 +1,33 @@
+{
+  "regular": [
+    {
+      "id": "1",
+      "text": "Visit Google!",
+      "url": "https://www.google.com",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Googleplex_HQ_%28cropped%29.jpg",
+      "is_phishing": false
+    },
+    {
+      "id": "2",
+      "url": "http://fake-login-page.com/login.php",
+      "text": "Free ",  
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=300",
+      "is_phishing": true,
+      "probability": 1.0
+    },
+    {
+      "id": "3",
+      "text": "Learn at BUE",
+      "url": "https://learn1.bue.edu.eg/login/index.php",
+      "image": "https://waya.media/wp-content/uploads/sites/3/2023/04/IMG_20210502_235453.jpg",
+      "is_phishing": false
+    }
+  ],
+  "popup": {
+    "id": "4",
+    "text": "Win a Free iPhone!",
+    "url": "http://scam-offer.com/iphone",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O7dt4WWjMCWb5eqweEdSyaowTTUwT-1F-w&s",
+    "is_phishing": true
+  }
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "timestamp": "2025-04-22T20:37:06.502635",
+    "query": "Username: safe, Password: SELECT * FROM users; --",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-22T20:38:25.368647",
+    "query": "Username: john_doe, Password: SELECT * FROM users; --",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-22T20:40:58.389209",
+    "query": "Username: SELECT * FROM users; --, Password: sagdshgds",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-22T20:41:08.176174",
+    "query": "Username: SELECT * FROM users; --, Password: MIHAMED",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-22T20:50:17.341067",
+    "query": "Username: OR 1=1, Password: SHDHSGHFS",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-22T20:54:47.711616",
+    "query": "Username: alice OR 1=1, Password: ahghdg",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-22T21:01:49.531986",
+    "query": "Username: alice OR 1=1, Password: superpass",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-22T21:05:35.935724",
+    "query": "Username: mohamed223331, Password: OR 1=1",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-22T21:13:36.337390",
+    "query": "Username: john_doe OR 1=1, Password: sdada",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-22T21:16:37.941624",
+    "query": "Username: DROP table THANK YOU \u2764\ufe0f\u2764\ufe0f, Password: DFSF",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-23T10:39:09.310859",
+    "query": "Username: john_doe DROP TABLE MOM, Password: 123",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-23T22:11:06.844648",
+    "query": "Username: mohamed223331, Password: OR 1=1",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-24T12:59:16.942887",
+    "query": "Username: john_doe, Password: SELECT * FROM TABLE USERS",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-24T16:21:54.255741",
+    "query": "Username: john_doe, Password: OR 1=1",
+    "ip_address": "192.168.56.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-04-26T16:14:46.695220",
+    "query": "Username: mohamed_wafiq, Password: 123321@Aa  SELECT USERS FROM TABLE USERS",
+    "ip_address": "192.168.56.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-03T20:21:57.711861",
+    "query": "Username: admin' OR CONCAT('1','=','1')='1, Password: 123232",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-03T20:23:29.984555",
+    "query": "Username: admin' OR (SELECT CHAR(49)=CHAR(49)) --, Password: wew",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-03T20:24:00.603172",
+    "query": "Username: admin' AND IF(1=1, SLEEP(5), 0) --, Password: 322ew",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-03T20:26:00.182155",
+    "query": "Username: admin' AND BENCHMARK(1000000,MD5('test')) --, Password: dfd",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-03T20:27:08.379921",
+    "query": "Username: admin' OR CASE WHEN (1=1) THEN '1' ELSE '0' END='1' --, Password: 121332",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-04T12:13:09.472789",
+    "query": "Username: john_doe or 1=1, Password: jhgj",
+    "ip_address": "192.168.56.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-04T12:25:18.453349",
+    "query": "Username: BUE admin' AND BENCHMARK(1000000,MD5('test')) --, Password: 123321@Aa",
+    "ip_address": "192.168.56.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-09T19:35:19.306001",
+    "query": "Username: mohamed223331 OR 1=1, Password: 12",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-09T19:47:56.861980",
+    "query": "Username: mohamed223331 OR 1=1, Password: 1232",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-09T19:48:35.927427",
+    "query": "Phishing URL detected: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-09T19:49:16.463088",
+    "query": "Phishing URL detected: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-09T20:32:24.523289",
+    "query": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-09T20:33:16.925386",
+    "query": "Phishing URL clicked: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-09T20:39:37.980421",
+    "query": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-09T20:53:10.084091",
+    "query": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-09T20:56:41.712557",
+    "query": "Username: mohamed DROP TABLE dkas, Password: 3232",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T12:57:47.087117",
+    "query": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T13:15:49.996837",
+    "query": "Phishing URL detected: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T13:15:50.966382",
+    "query": "Phishing URL detected: https://www.coursera.org",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T13:34:07.871308",
+    "message": "Username: mohamed wafiq DROP TABLE, Password: 121",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T13:38:48.921158",
+    "message": "Username: mohamed wafiq DROP TABLE, Password: 12w",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T13:40:07.072140",
+    "query": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T13:40:47.508721",
+    "query": "Phishing URL clicked: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T15:26:18.216404",
+    "query": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "192.168.56.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T15:30:02.898475",
+    "query": "Phishing URL clicked: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T15:39:48.714871",
+    "query": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T15:41:21.409373",
+    "query": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T15:41:34.925278",
+    "query": "Phishing URL clicked: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T15:59:27.402249",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T15:59:37.378775",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T15:59:53.281564",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T16:03:04.653834",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T16:03:07.641890",
+    "message": "Phishing URL clicked: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T16:04:09.020957",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T16:16:00.933454",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T16:16:08.568566",
+    "message": "Phishing URL clicked: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T16:16:11.616560",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T16:16:12.508394",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T16:20:07.395701",
+    "message": "Username: mohame d OR 1=1, Password: DHSY",
+    "ip_address": "192.168.56.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T16:32:49.367702",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T16:33:31.505378",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T19:58:15.015244",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T19:58:20.215032",
+    "message": "Phishing URL clicked: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T19:59:56.624828",
+    "message": "Username: mohamed wafiq (SELECT SUBSTR(version(),1,1))='5' --`, Password: 121",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-10T20:01:54.355195",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-12T14:51:46.469051",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-19T12:55:13.947959",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-19T12:55:30.006994",
+    "message": "Phishing URL clicked: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-19T20:44:35.877421",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-19T21:08:11.709333",
+    "message": "Username: mohamed wafiq OR 1=1, Password: fdfd`",
+    "ip_address": "192.168.56.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-19T21:09:35.946522",
+    "message": "Username: mohamed wafiq DROP TABLE, Password: dfdfd",
+    "ip_address": "192.168.56.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-19T21:11:36.724036",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-21T12:03:03.941248",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-21T12:03:06.423380",
+    "message": "Phishing URL clicked: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-28T13:27:50.554754",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-28T13:37:48.608310",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-28T16:50:16.162557",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-28T18:29:51.453191",
+    "message": "Phishing URL clicked: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-28T20:51:14.335747",
+    "message": "Phishing URL detected: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-28T21:02:17.875290",
+    "message": "Phishing URL clicked: http://scam-offer.com/iphone",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-28T21:02:44.868664",
+    "message": "XSS attempt in contact form: mwm3332@gmail.com",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-28T21:03:39.396911",
+    "message": "XSS attempt in contact form: mwm3332@gmail.com",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-28T21:04:21.812095",
+    "message": "XSS attempt in contact form: <img src=x onerror=alert('XSS')>",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-28T21:46:32.687503",
+    "message": "Username: mohamed wafiq, Password: OR 1=1",
+    "ip_address": "192.168.56.1",
+    "blocked": false
+  },
+  {
+    "timestamp": "2025-05-28T22:30:46.159184",
+    "message": "Phishing URL clicked: http://fake-login-page.com/login.php",
+    "ip_address": "127.0.0.1",
+    "blocked": false
+  }
+]

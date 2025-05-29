@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-28T21:02:17.874286",
+    "url": "http://scam-offer.com/iphone",
+    "text": "Win a Free iPhone!",
+    "is_phishing": true,
+    "probability": 0.625,
+    "ip_address": "127.0.0.1",
+    "click_count": 44
+  },
+  {
+    "timestamp": "2025-05-28T22:30:42.509891",
+    "url": "https://www.google.com",
+    "text": "Visit Google!",
+    "is_phishing": false,
+    "probability": 0.305,
+    "ip_address": "127.0.0.1",
+    "click_count": 19
+  },
+  {
+    "timestamp": "2025-05-28T22:30:46.137842",
+    "url": "http://fake-login-page.com/login.php",
+    "text": "Free Login Page!",
+    "is_phishing": true,
+    "probability": 0.63,
+    "ip_address": "127.0.0.1",
+    "click_count": 32
+  },
+  {
+    "timestamp": "2025-05-28T21:01:25.491273",
+    "url": "https://learn1.bue.edu.eg/login/index.php",
+    "text": "Learn at BUE",
+    "is_phishing": false,
+    "probability": 0.25,
+    "ip_address": "127.0.0.1",
+    "click_count": 7
+  },
+  {
+    "timestamp": "2025-05-10T13:11:44.206811",
+    "url": "https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/week/1",
+    "text": "coursera free",
+    "is_phishing": true,
+    "probability": 0.9,
+    "ip_address": "127.0.0.1",
+    "click_count": 11
+  },
+  {
+    "timestamp": "2025-05-10T13:18:20.491024",
+    "url": "https://www.coursera.org",
+    "text": "coursera free",
+    "is_phishing": true,
+    "probability": 0.525,
+    "ip_address": "127.0.0.1",
+    "click_count": 20
+  },
+  {
+    "timestamp": "2025-05-10T15:36:09.048926",
+    "url": "http://scam-offer.com/iphone",
+    "text": "Win a Free iPhone!",
+    "is_phishing": true
+  },
+  {
+    "timestamp": "2025-05-19T20:56:30.540775",
+    "url": "https://www.google.com",
+    "text": "Visit Google!",
+    "is_phishing": false,
+    "probability": 0.305,
+    "ip_address": "192.168.56.1",
+    "click_count": 1
+  }
+]
